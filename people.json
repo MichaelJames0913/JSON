@@ -1,14 +1,14 @@
 [
   {
     "name": "mike",
-    "occupation" : "Programer",
+    "occupation" : "Programer"
   },
   {
     "name": "Erik",
-    "occupation" : "pools",
+    "occupation" : "pools"
   },
   {
     "name": "Emily",
-    "occupation" : "language",
+    "occupation" : "language"
   }
 ]
