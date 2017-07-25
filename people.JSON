@@ -1,0 +1,14 @@
+[
+  {
+    "name": "mike",
+    "occupation" : "Programer",
+  },
+  {
+    "name": "Erik",
+    "species" : "pools",
+  },
+  {
+    "name": "Emily",
+    "species" : "language",
+  }
+]
