@@ -1,0 +1,1 @@
+this repository is used to store JSON files used to practice get requests 
